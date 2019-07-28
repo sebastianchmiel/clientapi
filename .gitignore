@@ -1,0 +1,8 @@
+#netbeans
+/nbproject/*
+
+#vendor
+/vendor/*
+
+#env
+.env
